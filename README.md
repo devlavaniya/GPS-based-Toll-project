@@ -1,7 +1,4 @@
 # GPS Toll-Based System
-
-![image](https://github.com/user-attachments/assets/2a836d30-73b7-4b3d-b12e-97af0445ae21)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -36,7 +33,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/MAYANK12SHARMA/GPS-Toll-Checker.git
+    git clone https://github.com/devlavaniya/GPS-based-Toll-project.git
     ```
 
 2. **Navigate to the project directory**
@@ -127,7 +124,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - **Mayank Sharma**
-  - Email: [mayank.sharma_cs.h23@gla.ac.in](mailto:mayank.sharma_cs.h23@gla.ac.in)
+  - Email: [mayank.sharma_cs.h23@gla.ac.in](mailto:devlavaniya18@gmail.com)
 
 
 
