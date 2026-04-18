@@ -123,7 +123,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## Contact
-- **Mayank Sharma**
+- **Dev Lavaniya**
   - Email: [devlavaniya18@gmail.com](mailto:devlavaniya18@gmail.com)
 
 
